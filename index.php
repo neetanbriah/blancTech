@@ -14,7 +14,10 @@
   <div class="main">
       <img src="image/Blanc_discord.png" alt="logo" />
       <br />
-      <h1>COMING SOON</h1>
+      <div class="title">
+        <h1>COMING SOON</h1>
+    </div>
+      
   </div>
 </body>
 </html>

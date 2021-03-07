@@ -11,7 +11,7 @@
 .main img {
   animation: rotation 8s infinite linear;
 }
-.main h1 {
+.main title {
   transition: width 2s;
   transition-timing-function: cubic-bezier(0.1, 0.7, 1, 0.1);
 }
