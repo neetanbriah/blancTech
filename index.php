@@ -11,12 +11,8 @@
 </head>
 
 <body>
-  <?php
-
-   $aows = true;
-
-    echo ( $aows ? 'Gay'  : 'Not gay ;( ');
-
-  ?>
+    <img src="image/Blanc_discord.png" alt="logo" />
+    <br />
+    <h1>COMING SOON</h1>
 </body>
 </html>
