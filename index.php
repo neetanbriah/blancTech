@@ -11,8 +11,10 @@
 </head>
 
 <body>
-    <img src="image/Blanc_discord.png" alt="logo" />
-    <br />
-    <h1>COMING SOON</h1>
+  <div class="main">
+      <img src="image/Blanc_discord.png" alt="logo" />
+      <br />
+      <h1>COMING SOON</h1>
+  </div>
 </body>
 </html>
