@@ -11,6 +11,10 @@
 .main img {
   animation: rotation 8s infinite linear;
 }
+.main h1 {
+  transition: width 2s;
+  transition-timing-function: cubic-bezier(0.1, 0.7, 1, 0.1);
+}
 
 @keyframes rotation {
   from {
